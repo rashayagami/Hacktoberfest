@@ -12,7 +12,7 @@ Bharati Vidyapeeth College of Engineering, New Delhi
 
 ### Development
 
-- html, css, js, Reactjs, React native
+- html, css, js, Reactjs, 
 
 
 ### Profile Link
